@@ -1,0 +1,61 @@
+- ## What is Regatta Manager?
+	- Regatta Manager (RM for short) is an all-in-one suite, designed for race officials and competitors. RM's goal is to streamline the process of hosting and competing in a regatta. RM focuses on the user experience, cutting down on inconveniences that comes with existing solutions. It will contain all the tools necessary to run a successful regatta. Everything required is contained in one, easy-to-use website (and IOS/(Maybe Android) application).
+	-
+- ## Why Regatta Manager?
+	- RM is perfect for increasing the efficiency of any regatta. It's a hassle-free solution that allows anyone to manage their regatta seamlessly.
+	-
+- ## What sets Regatta Manager apart?
+	- RM takes a large variety of tools and combines them into one package. Here is a list of the tools that are included with the RM suite.
+	-
+	- ### Regatta creation
+		- RM will include an easy-to-use, highly customisable regatta creation process. Anyone can create a regatta to their specifications. Here, a regatta organiser will enter all the necessary information. Once it is complete, a regatta page will have been successfully completed.
+	-
+	- ### Regatta info page
+		- RM's goal is to make life easier for regatta officials and competitors alike. Officials can list their regattas in several different ways.
+			- Public regattas: Anyone with a code/link to the regatta can be invited
+			- Private regattas: Only selected members will be invited to the regatta
+		- Once a competitor is invited to a regatta, they will find all the necessary information. This includes but is not limited to:
+			- Organisers
+				- Contact details
+			- Hosting Club/organisation
+				- Contact details, Addresses, nearby parking & facilities
+			- Dates and time
+				- Running plan
+			- Boat Classes + Race types
+			- Sailing Instructions/racing rules
+			- Other entrants
+			- Entry costs + other expenses
+				- To avoid the complications of handling sensitive information, a third party will handle all payments/sensitive information. These third parties will likely be Stripe and/or PayPal.
+	- ### Signup page
+		- RM aims to streamline every process of hosting and competing in any regatta. RM will include it's own signup page where competitors can easily signup for regattas. Competitors will enter all details once they have been invited to a regatta. The information required will be set by the organisers. This will be from a pre-determined but expansive list of options. For privacy and safety reasons, RM will not have certain options like an exact home address.
+	-
+	- ### Basic and advanced scoring systems
+		- RM contains a sophisticated scoring system. RM has the capabilities to score Fleet, Match and Team racing. RM has built-in functionality to score in several, commonly used formats and using this information can generate brackets in multiple different systems.
+			- Some of the commonly used scoring systems that will be included with RM include:
+				- Point-Per-Win system, commonly used in match racing
+				- Low point system, commonly used in fleet and teams racing
+			- Some of the commonly used bracket systems, mainly aimed at teams racing include:
+				- Swiss league round system
+				- Round Robin system
+		- #### Regatta manager is smart
+			- RM can take crude information and create accurate and clean results that can be viewed by anyone. In a teams racing setting, RM is able to generate the next round in a Swiss league or round-robin system. RM is also able to generate the brackets of a final series in a far more straightforward manner.
+	-
+	- ### Easy protests
+		- Protests are an overlooked aspect of all current solutions. It is difficult for competitors to be fully updated. This leads to a messy and unorganised situation that is easily avoidable. RM plans to solve this. Protests can easily be lodged by competitors. When a protest is lodged, the recipient of the protest can be notified by email, app notification or sms message (If they opt in for it). This allows all parties to be aware of the situation.
+	-
+	- ### Regatta news
+		- Similar to protests, receiving updates from regatta organisers and race officials is difficult at best. If users opt in to notifications, competitors can be notified of news by email, app notification or sms message or new news.
+	-
+	- ### Sign on/off
+		- As a competitor myself, the number of times that other competitors and myself have forgotten to sign on/off is crazy. The current methods of signing on and off for race days is inconvenient. This also creates a hassle for organisers as they need to make sure that all competitors have completed the day safely. RM will have an easy-to-use sign-on/off section that is easy to use. An opt-in notification system will be included that will notify competitors when they haven't signed on/off. Once the deadline arrives, regatta officials can receive notifications on the results of the sign-on/off.
+	-
+	- ### Draw
+		- The built-in draw functionality of RM is versatile, working in many different settings.
+			- In larger fleet racing regattas, RM is capable of generating different fleets
+			- In match racing, future pairs can be generated automatically.
+			- In teams racing, RM can generate a draw of the next round automatically based on results
+	-
+	- ### Results
+		- The results page of a regatta can operate on several different settings.
+			- A live setting where results and the scoreboard is updated in real time
+			- A hidden setting where results are updated when the race officials choose

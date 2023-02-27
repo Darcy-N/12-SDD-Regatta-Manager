@@ -1,0 +1,26 @@
+- Needs:
+	- A streamlined solution for managing regattas
+	- A way to host and compete in regattas with ease
+	- A platform to centralize all information and tools necessary for a successful regatta
+	- A way to invite and manage competitors in a regatta
+	- A platform to handle sensitive information securely
+	- An easy-to-use sign-up process for competitors
+	- A sophisticated scoring system
+	- A solution for managing protests in an organized manner
+	- An updated news feed for regattas
+	- An easy-to-use sign-on/off process
+	- A draw system that works in different settings
+	- A results page that operates in real-time or can be updated when desired
+-
+- Objectives:
+	- To create an all-in-one suite that streamlines the process of hosting and competing in a regatta
+	- To improve the user experience for regatta officials and competitors
+	- To provide a highly customizable regatta creation process
+	- To list regattas in a way that is convenient for all parties involved
+	- To provide an easy-to-use signup page for competitors
+	- To include a sophisticated scoring system that can handle fleet, match, and team racing
+	- To provide an easy protest system that keeps all parties informed
+	- To offer an updated news feed for regattas
+	- To make the sign-on/off process easier and more convenient
+	- To provide a draw system that is versatile and works in different settings
+	- To offer a results page that can be updated in real-time or at the discretion of race officials.

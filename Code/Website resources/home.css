@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style for the navigation bar */
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  background-color: rgb(30,30,30);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style for the navigation links */
+nav a {
+  position: relative; 
+  color: rgb(160,160,160);
+  text-decoration: none;
+  padding: 0 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  transition: background-color 0.5s ease, padding 0.5s ease;
+  background-color: transparent;
+}
+
+/* Style for the logo or image on the left */
+nav img {
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  padding: 20px;
+}
+
+/* Style for the dropdown button */
+.dropdown {
+  position: relative;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: calc(6vh);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  background-color: rgb(60,60,60);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+  color: rgb(160,160,160);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  transition: background-color 0.5s ease, padding 0.5s ease;
+  background-color: transparent;
+}
+
+/* Style for the dropdown links on hover */
+.dropdown-content a:hover,
+nav a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+  opacity: 1;
+}
+
+/* Hide the dropdown menu after 2 seconds of leaving the dropdown item */
+.dropdown-content {
+  pointer-events: none;
+}
